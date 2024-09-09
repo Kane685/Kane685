@@ -4,4 +4,10 @@ A record of how to beautify my repository
 #### 1. github status information-api 
 
 #### 1.1 account information
-![GitHub账户信息统计](https://github-stats.ubrong.com/api?username=Kane685&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kane685)
+
+#### 1.2 language used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane685)
+
+
+
