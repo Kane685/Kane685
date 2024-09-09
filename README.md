@@ -12,4 +12,7 @@ A record of how to beautify my repository
 #### 1.3 activity statistic
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kane685)
 
+#### 1.4 social statistic
+![](https://stats.justsong.cn/api/leetcode?username=Kane685&cn=true)
+
 
