@@ -1,7 +1,7 @@
 # Read me
 Kane Gu - an engineering student at University of Cambridge
 
-#### 1. github status information-api 
+#### 1. github status information
 
 #### 1.1 account information
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kane685)
