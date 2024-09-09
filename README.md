@@ -9,5 +9,7 @@ A record of how to beautify my repository
 #### 1.2 language used
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kane685)
 
+#### 1.3 activity statistic
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kane685)
 
 
