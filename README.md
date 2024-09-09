@@ -1,5 +1,5 @@
-# Repository-beautification
-A record of how to beautify my repository
+# Read me
+Kane Gu - an engineering student at University of Cambridge
 
 #### 1. github status information-api 
 
